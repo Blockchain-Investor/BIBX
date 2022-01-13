@@ -26,10 +26,12 @@ Telegram Group https://t.me/CryptorTrustGroup
 Blogs News https://cryptortrust.com/news/news/
 Blockchain Investor Blog https://cryptortrust.com/bitcoin-investor-blog/
 Shareholder/Tokenholder Blog https://cryptortrust.com/investor-relation/blockchain-investor/ (password protected, only for token holders) Pages                                                                                                                
-Facebook https://www.facebook.com/cryptortrust
+Facebook https://www.facebook.com/cryptortrust                                                                              
+
 Twitter https://twitter.com/CryptorTrust
 Linkedin https://www.linkedin.com/company/cryptortrust                                                                      
-Feedburner http://feeds.feedburner.com/CryptorTrust Instagram https://www.instagram.com/cryptortrust/
+Feedburner http://feeds.feedburner.com/CryptorTrust                                                                         
+Instagram https://www.instagram.com/cryptortrust/
 Youtube https://www.youtube.com/user/cryptortrust/
 Pininterest https://www.pinterest.com/cryptortrust/
 VK https://vk.com/public86708058
