@@ -15,7 +15,7 @@ Full Contract implemented at https://etherscan.io/address/0xf81af045563A8ADB63Fd
 
 Wrapped Blokchain Investor Bearer Token (BIBX) is listed on Decentralized Exchange (DEX). Website https://cryptortrust.com/ Investor Relation https://cryptortrust.com/investor-relation/
 
-Groups/ Forums                                                                                                                     Linkedin Group https://www.linkedin.com/groups/6580131                          
+Groups/ Forums                                                                                                                                               Linkedin Group https://www.linkedin.com/groups/6580131                          
 Facebook Group https://www.facebook.com/groups/cryptortrust/
 VK Group https://vk.com/club87272980
 Telegram channel https://t.me/blockchainforum
