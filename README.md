@@ -1,7 +1,7 @@
 # BIBX
 Blockchain Investor Bearer Token (ERC20). Blockchain Investor - a global investor in crypto assets. 
 
-Wrapped Blockchain Investor Bearer Token, Name "BIBXerc20xx", Ticker "BIBX", Total Supply 150.000.000 BIBX tokens, 18 Decimals, Contract BIBXercxx. The token is based on standard OpenZeppelin ERC20 contract. Tokens allocation as follows: up to 150 million tokens distributed to current shareholders in Blockchain Investor reflecting their tokenholding. Future issuing (capital increase om Blockchain Investor) against digital assets / currencies. Issuing of these passive tokens is subject to approval of the Board of Directors and General Meeting of Tokenholders. 
+Wrapped Blockchain Investor Bearer Token, Name "BIBXerc20xx", Ticker "BIBX", Total Supply 150.000.000 BIBX tokens, 18 Decimals, Contract BIBXercxx. The token is based on standard OpenZeppelin ERC20 contract. Up to 150 million tokens can be exchanged and distributed to current shareholders in Blockchain Investor in return for their BIB tokens. Future issuing (capital increase om Blockchain Investor) against digital assets / currencies. Issuing of these passive tokens is subject to approval of the Board of Directors and General Meeting of Tokenholders. 
 
 Benefits of using wrapped tokens Even though many blockchains have their own token standards (ERC-20 for Ethereum or BEP-20 for BSC), these standards can’t be used across multiple chains and exchanges. Wrapped tokens allow non-native tokens to be used on a given blockchain / Exchange pool.
 
