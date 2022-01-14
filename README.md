@@ -1,19 +1,19 @@
 # BIBX
 Blockchain Investor Bearer Token (ERC20). Blockchain Investor - a global investor in crypto assets. 
 
-Wrapped Blockchain Investor Bearer Token, Name "BIBXerc20x", Ticker "BIBX", Total Supply 150.000.000 BIBX tokens, 18 Decimals, Contract BIBXercxx. The token is based on standard OpenZeppelin ERC20 contract Tokens allocation as follows: up to 150 million tokens distributed to current shareholders in Blockchain Investor reflecting their tokenholding. Future issuing (capital increase om Blockchain Investor) against digital assets / currencies. Issuing of these passive tokens is subject to approval of the Board of Directors and General Meeting of Tokenholders. 
+Wrapped Blockchain Investor Bearer Token, Name "BIBXerc20xx", Ticker "BIBX", Total Supply 150.000.000 BIBX tokens, 18 Decimals, Contract BIBXercxx. The token is based on standard OpenZeppelin ERC20 contract. Tokens allocation as follows: up to 150 million tokens distributed to current shareholders in Blockchain Investor reflecting their tokenholding. Future issuing (capital increase om Blockchain Investor) against digital assets / currencies. Issuing of these passive tokens is subject to approval of the Board of Directors and General Meeting of Tokenholders. 
 
 Benefits of using wrapped tokens Even though many blockchains have their own token standards (ERC-20 for Ethereum or BEP-20 for BSC), these standards can’t be used across multiple chains and exchanges. Wrapped tokens allow non-native tokens to be used on a given blockchain / Exchange pool.
 
-In addition, wrapped tokens can increase liquidity and capital efficiency both for centralized and decentralized exchanges. The ability to wrap idle assets and use them on another chain can create more connection between otherwise isolated liquidity. Since BIB was developed using the ERC-223 standard, it isn’t compliant with ERC20 based exchanges / liquidity pools. This creates a problem, as many DApps require you to convert between ether and an ERC-20 token. This is why "Wrapped BIBX" was created. It’s a wrapped version of BIB that is compliant with the ERC-20 standard.
+In addition, wrapped tokens can increase liquidity and capital efficiency both for centralized and decentralized exchanges. The ability to wrap idle assets and use them on another chain can create more connection between otherwise isolated liquidity. Since BIB was developed using the ERC-223 standard, it isn’t compliant with ERC20 based exchanges / liquidity pools. This creates a problem, as many DApps require you to convert between ether and an ERC-20 token. This is why "BIBX" was created. It’s a wrapped version of BIB that is compliant with the ERC-20 standard.
 
 BIBX is an ERC-20 token that’s hold a one-to-one peg to the value of BIB allowing you to effectively use BIBX on ERC20 based Ethereum network / exchanges. Wrapped tokens require a custodian – an entity that holds an equivalent amount of the asset as the wrapped amount. This custodian can be a bank, merchant, a wallet, a DAO, or even a smart contract. So, in BIBX’s case, the custodian needs to hold 1 BIB for each 1 BIBX that is issued. Proof of this reserve exists on-chain.
 
 But how does the wrapping process work? A merchant sends BIB for the custodian to change. The custodian then sends back BIBX on Ethereum according to the amount of BIB sent. When the BIBX needs to be exchanged back to BIB, the merchant returns the BIBX to the custodian, and the BIB is released from the reserves. You can think of the custodian as the wrapper and unwrapper.
 
-Full Contract implemented at https://etherscan.io/address/0xf81af045563A8ADB63FdC110E8b9c4957089e679#code 
+Full verified contract implemented at https://etherscan.io/address/0xf81af045563A8ADB63FdC110E8b9c4957089e679#code 
 
-Wrapped Blokchain Investor Bearer Token (BIBX) is listed on Decentralized Exchange (DEX). Website https://cryptortrust.com/ Investor Relation https://cryptortrust.com/investor-relation/
+Wrapped Blokchain Investor Bearer Token (BIBX) will be listed on Decentralized Exchange (DEX). Website https://cryptortrust.com/ Investor Relation https://cryptortrust.com/investor-relation/
 
 Groups/ Forums                                                                                                                    
 Linkedin Group https://www.linkedin.com/groups/6580131                          
